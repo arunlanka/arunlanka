@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Arjun - Pipeline Digital Twins and Industrial AI" width="100%">
+  <img src="banner.png" alt="Arjun - Pipeline Digital Twins and Industrial AI" width="100%">
 </div>
 
 ### Project engineer building Pipeline Digital Twins & Monitoring Systems at Emerson 
