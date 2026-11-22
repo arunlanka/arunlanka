@@ -2,21 +2,11 @@
   <img src="banner.svg" alt="Arjun - Pipeline Digital Twins and Industrial AI" width="100%">
 </div>
 
-### Project engineer building pipeline digital twins for oil and gas
+### Project engineer building Pipeline Digital Twins & Monitoring Systems at Emerson 
 
 ---
 
-🔭 I'm currently working on **pipeline digital twins** (leak detection, operator training simulators, pipeline monitoring and analysis) and **industrial AI/ML applications**
-
-🌱 I'm currently exploring **local small language models and RAG for internal enterprise use**
-
-👯 I'm looking to collaborate on **pipeline simulation, leak detection and industrial AI**
-
-💬 Ask me about **Pipeline modelling | Leak detection | OPC UA integration | DeltaV PipelineManager | Anomaly detection**
-
-📫 How to reach me: **YOUR-EMAIL**
-
-⚡ Fun fact: **WRITE YOUR OWN HERE**
+Learning to build industrial grade AI systems that deliver value to the users, be that in chatbot, anaomly detection or ML models that learn patterns. 
 
 ## Connect with me
 
