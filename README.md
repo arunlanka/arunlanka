@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <img src="banner.svg" alt="Arjun - Pipeline Digital Twins and Industrial AI" width="100%">
+</div>
 
-<!--
-**arunlanka/arunlanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Project engineer building pipeline digital twins for oil and gas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on **pipeline digital twins** (leak detection, operator training simulators, pipeline monitoring and analysis) and **industrial AI/ML applications**
+
+🌱 I'm currently exploring **local small language models and RAG for internal enterprise use**
+
+👯 I'm looking to collaborate on **pipeline simulation, leak detection and industrial AI**
+
+💬 Ask me about **Pipeline modelling | Leak detection | OPC UA integration | DeltaV PipelineManager | Anomaly detection**
+
+📫 How to reach me: **YOUR-EMAIL**
+
+⚡ Fun fact: **WRITE YOUR OWN HERE**
+
+## Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arunlankaengg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunlanka)
+
+## Tools
+
+[![Tools](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
