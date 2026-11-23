@@ -2,13 +2,13 @@
   <img src="banner.png" alt="Arjun - Pipeline Digital Twins and Industrial AI" width="100%">
 </div>
 
-### Project engineer building Pipeline Digital Twins & Monitoring Systems at Emerson 
+Project Engineer at Emerson, building pipeline digital twins and monitoring systems for projects of strategic importance to the global oil and gas value chain.
 
----
+Building industrial-grade AI/ML systems, including chatbots, anomaly detection, predictive analysis of industrial processes, and models that learn patterns from process data, and to integrate them within on-site SCADA/PI historian architecture and IT/OT and cybersecurity compliance requirements.
 
-Learning to build industrial grade AI systems that deliver value to the users, be that in chatbot, anaomly detection or ML models that learn patterns. 
+Currently exploring OPC UA, IEC 62443, Anomaly detection using AI. 
 
-## Connect with me
+## Let's connect !
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arunlankaengg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunlanka)
